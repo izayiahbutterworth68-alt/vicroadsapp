@@ -6,5 +6,5 @@ pages_build_output_dir = "artifacts/licence-card-editor/dist/public"
 [[d1_databases]]
 binding = "DB"
 database_name = "licence-card-editor"
-database_id = "12345678-abcd-1234-abcd-123456789abc"
+database_id = "2819ad01-309e-470a-bd4a-20e90e08d918"
 migrations_dir = "artifacts/licence-card-editor/migrations"
