@@ -1,4 +1,4 @@
-name = "vicroadsapp1"
+name = "licence-card-editor"
 compatibility_date = "2026-09-14"
 pages_build_output_dir = "artifacts/licence-card-editor/dist/public"
 
